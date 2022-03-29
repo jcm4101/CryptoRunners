@@ -1,0 +1,6 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\bin\x64\Debug\3DES-Runner.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\bin\x64\Debug\3DES-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\bin\x64\Debug\3DES-Runner.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\obj\x64\Debug\3DES-Runner.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\obj\x64\Debug\3DES-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\3DES-Runner\obj\x64\Debug\3DES-Runner.pdb

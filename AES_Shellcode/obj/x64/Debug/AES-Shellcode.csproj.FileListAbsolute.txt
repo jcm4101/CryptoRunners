@@ -1,0 +1,7 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\bin\x64\Debug\AES_Shellcode.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\bin\x64\Debug\AES_Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\bin\x64\Debug\AES_Shellcode.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\obj\x64\Debug\AES-Shellcode.csproj.AssemblyReference.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\obj\x64\Debug\AES-Shellcode.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\obj\x64\Debug\AES_Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\AES_Shellcode\obj\x64\Debug\AES_Shellcode.pdb

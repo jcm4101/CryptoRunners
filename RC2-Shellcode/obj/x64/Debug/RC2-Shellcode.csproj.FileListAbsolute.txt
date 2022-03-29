@@ -1,0 +1,6 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\bin\x64\Debug\RC2-Shellcode.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\bin\x64\Debug\RC2-Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\bin\x64\Debug\RC2-Shellcode.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\obj\x64\Debug\RC2-Shellcode.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\obj\x64\Debug\RC2-Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Shellcode\obj\x64\Debug\RC2-Shellcode.pdb

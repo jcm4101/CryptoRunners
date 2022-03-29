@@ -1,0 +1,6 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\bin\x64\Debug\AES-Runner.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\bin\x64\Debug\AES-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\bin\x64\Debug\AES-Runner.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\obj\x64\Debug\AES-Runner.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\obj\x64\Debug\AES-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\AES-Runner\obj\x64\Debug\AES-Runner.pdb

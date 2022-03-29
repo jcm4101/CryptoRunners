@@ -1,0 +1,7 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\bin\x64\Debug\Caeser-Runner.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\bin\x64\Debug\Caeser-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\obj\x64\Debug\Caeser-Runner.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\obj\x64\Debug\Caeser-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\obj\x64\Debug\Caeser-Runner.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\bin\x64\Debug\Caeser-Runner.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Runner\obj\x64\Debug\Caeser-Runner.csproj.AssemblyReference.cache

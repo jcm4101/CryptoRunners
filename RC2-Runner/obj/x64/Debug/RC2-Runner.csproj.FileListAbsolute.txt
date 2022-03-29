@@ -1,0 +1,6 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\bin\x64\Debug\RC2-Runner.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\bin\x64\Debug\RC2-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\bin\x64\Debug\RC2-Runner.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\obj\x64\Debug\RC2-Runner.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\obj\x64\Debug\RC2-Runner.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\RC2-Runner\obj\x64\Debug\RC2-Runner.pdb

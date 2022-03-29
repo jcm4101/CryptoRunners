@@ -1,0 +1,7 @@
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\bin\x64\Debug\Caeser-Shellcode.exe.config
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\bin\x64\Debug\Caeser-Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\bin\x64\Debug\Caeser-Shellcode.pdb
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\obj\x64\Debug\Caeser-Shellcode.csproj.AssemblyReference.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\obj\x64\Debug\Caeser-Shellcode.csproj.CoreCompileInputs.cache
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\obj\x64\Debug\Caeser-Shellcode.exe
+\\10.1.1.250\vs_snips\CryptorsRunners\Caeser-Shellcode\obj\x64\Debug\Caeser-Shellcode.pdb
